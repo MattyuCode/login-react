@@ -3,6 +3,8 @@
 # dependencies
 /node_modules
 /.pnp
+/package.json
+
 .pnp.js
 
 # testing
@@ -22,4 +24,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/package.json
