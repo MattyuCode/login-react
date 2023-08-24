@@ -1,3 +1,10 @@
+
+# Importante ver cuando se crea un login 
+//LOGIN con REACT JS y API Rest | Node JS y FAKE API | Tutorial en Español (2020)
+// https://www.youtube.com/watch?v=JKenEw4S5BQ
+
+// Routes
+// https://youtu.be/X4yie0wWl-k
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
